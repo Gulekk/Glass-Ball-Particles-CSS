@@ -1,3 +1,3 @@
 ﻿# Glass-Ball-Particles-CSS
 Glass-Ball in CSS
-![image](https://user-images.githubusercontent.com/31259850/213213870-3d7d6d28-02e5-4397-a3a3-a1efdd02f7d3.png)
+![image](https://user-images.githubusercontent.com/31259850/213234610-e1c8d66c-caf1-4918-940b-dd951c23983f.png)
